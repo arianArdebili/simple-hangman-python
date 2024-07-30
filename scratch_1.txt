@@ -1,0 +1,11 @@
+words = [
+    "python", "jupyter", "variable", "function", "loop",
+    "integer", "string", "boolean", "syntax", "compile",
+    "debug", "array", "list", "tuple", "dictionary",
+    "iterator", "generator", "lambda", "exception", "module",
+    "package", "script", "class", "object", "inheritance",
+    "polymorphism", "encapsulation", "abstraction", "recursion", "algorithm",
+    "data", "structure", "binary", "decimal", "hexadecimal",
+    "framework", "library", "development", "version", "control",
+    "repository", "commit", "branch", "merge", "conflict",
+    "pull", "request", "clone", "fork", "issue"]
